@@ -5,3 +5,12 @@ body{
      border-left:50px;
      border-top:20px;
 }
+.h1{
+    color: light red;
+}
+.p{
+    color:light blue;
+}
+.pa{
+    color: yellow
+}
